@@ -3,6 +3,16 @@ A WIP game about the Finnish summer.
 
 Launch the game with all the game files in the same folder!
 
+## FOR NON ZIP DOWNLOADERS
+
+I uploaded the largest files with git large file support (LFS). This means that in order for you to properly download the game, youll have to run: 
+
+git clone https://github.com/urkkiz225/kesaSimulaattori
+
+in git bash. Git pull origin is untested, but im pretty sure you need high level access for that
+
+##
+
 Controls:
 
 ##
@@ -62,15 +72,5 @@ More sophisticated menu system
 
 Feel free to request features. 
 
-
-## FOR NON ZIP DOWNLOADERS
-
-I uploaded the largest files with git large file support (LFS). This means that in order for you to properly download the game, youll have to run: 
-
-git clone https://github.com/urkkiz225/kesaSimulaattori
-
-in git bash. Git pull origin is untested, but im pretty sure you need high level access for that
-
-##
 
 Game dev: urkkiz, discord: urkkizzz#4101
