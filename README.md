@@ -39,6 +39,10 @@ Known Issues/Bugs:
 
 ##
 
+Possible slight cutoff in lighting when switching skyboxes at midnight.
+
+You need to load 2 times to get the correct in-game time
+
 Enviromental reflections might not load after loading a scene with custom lighting data
 
 Npcs dont work
