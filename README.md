@@ -65,7 +65,7 @@ Feel free to request features.
 
 ## FOR NON ZIP DOWNLOADERS
 
-I uploaded the largest files with git. Dont remember the commands to download them from the pointer files, but they exist
+I uploaded the largest files with git large file support (LFS). This means that in order for you to properly download the game, youll have to run *git clone https://github.com/urkkiz225/kesaSimulaattori* in git bash. Git pull origin is untested, but im pretty sure you need high level access for that
 
 ##
 
