@@ -62,4 +62,11 @@ More sophisticated menu system
 
 Feel free to request features. 
 
+
+## FOR NON ZIP DOWNLOADERS
+
+I uploaded the largest files with git. Dont remember the commands to download them from the pointer files, but they exist
+
+##
+
 Game dev: urkkiz, discord: urkkizzz#4101
