@@ -8,7 +8,9 @@ Launch the game with all the game files in the same folder!
 I uploaded the largest files with git large file support (LFS). This means that in order for non-zip downloaders to properly download the game, youll have download git LFS and run: 
 
 cd (wanted directory)
-git lfs instal
+
+git lfs install
+
 git clone https://github.com/urkkiz225/kesaSimulaattori
 
 in git bash. Git pull origin is untested, but im pretty sure you need high level access for that
