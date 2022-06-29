@@ -1,23 +1,11 @@
+????PLEASE NOTE!????
+
+Kesäsimulaattori is a very early alpha and is laggy, buggy and it really does not have any gameplay features. The name isnt even decided yet. Keep this in mind when playing!
+
 # kesaSimulaattori
 A WIP game about the Finnish summer.
 
 Launch the game with all the game files in the same folder!
-
-## FOR NON ZIP DOWNLOADERS
-
-I uploaded the largest files with git large file support (LFS). This means that in order for non-zip downloaders to properly download the game, youll have download git LFS and run: 
-
-cd (wanted directory)
-
-git lfs install
-
-git clone https://github.com/urkkiz225/kesaSimulaattori
-
-in git bash. Git pull origin is untested, but im pretty sure you need high level access for that
-
-Otherwise the zip version can be found in the "releases"-tab.
-
-##
 
 Controls:
 
