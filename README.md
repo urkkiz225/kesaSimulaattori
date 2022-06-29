@@ -1,6 +1,6 @@
-????PLEASE NOTE!????
+⚠️⚠️PLEASE NOTE!⚠️⚠️
 
-Kes�simulaattori is a very early alpha and is laggy, buggy and it really does not have any gameplay features. The name isnt even decided yet. Keep this in mind when playing!
+Kesäsimulaattori is a very early alpha and is laggy, buggy and it really does not have any gameplay features. The name isnt even decided yet. Keep this in mind when playing!
 
 # kesaSimulaattori
 A WIP game about the Finnish summer.
