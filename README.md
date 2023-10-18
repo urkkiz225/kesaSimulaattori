@@ -30,4 +30,4 @@ Esc-Pause
 Feel free to request features. 
 
 
-Game dev: urkkiz, discord: urkkizzz#4101
+Game dev: urkkiz, discord: urkkizzz#4101/urkkizzz
